@@ -816,8 +816,15 @@ ul {
 
 /*ABOUT ME PAGE*/
 
+
 .AboutMePageTitle {
-    
+    font-family: 'Inconsolata', monospace;
+    padding-top: 17%;
+    padding-left: 5%;
+    margin: 0;
+    font-size: 1.8vw;
+
+
 }
 
 .TextWrapTextye {
@@ -873,6 +880,12 @@ ul {
         max-width: 40ch;
         width: 100%; 
         padding-left: 7.5%;
+    }
+    
+    .AboutMePageTitle {
+        font-size: 5vw;
+            padding-left: 7.5%;
+        padding-bottom: 10%;
     }
     
    
