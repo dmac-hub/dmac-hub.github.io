@@ -900,3 +900,13 @@ ul {
 
 
 }
+
+/*HIDDEN NY PAGE*/
+
+.HiddenNYLayout {
+   padding-left: 3.5%;
+}
+
+.HiddenNYLayout img {
+    width: 70%;
+}
